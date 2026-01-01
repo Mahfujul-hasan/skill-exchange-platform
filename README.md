@@ -7,6 +7,7 @@
 ## Website features:
 <p>Skill Swap is a frontend-focused web application designed to showcase various skill-based courses such as guitar lessons, spoken English, digital marketing, and photography. The project emphasizes modern UI design, responsiveness, and user experience. I built reusable components, applied clean layouts, and ensured full responsiveness across devices. This project highlights my ability to create attractive, interractive, and user-friendly interfaces using modern frontend tools</p>
 --
+
 ## Technologies Used
 - React
 - Tailwind CSS
