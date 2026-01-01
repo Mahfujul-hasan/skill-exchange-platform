@@ -1,0 +1,31 @@
+[
+    {
+      "id":1,
+      "title": "Discover Skills",
+      "description": "Browse local skill offerings and find what interests you",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvPXUDuMcwxl1_kiGIA565419VIIKu-aIz4g&s"
+      
+    },
+    {
+      "id":2,
+      "title": "Connect",
+      "description": "Reach out to providers to schedule a session or trades",
+      "icon": "https://st4.depositphotos.com/7662228/30134/v/450/depositphotos_301343880-stock-illustration-best-chat-speech-bubble-icon.jpg"
+      
+    },
+    {
+      "id":3,
+      "title": "Learn",
+      "description": "Attend skill sessions and improve your abilities",
+      "icon": "https://i.pinimg.com/736x/51/06/06/510606fef484fcbe346572557b4b8bb7.jpg"
+      
+    },
+    {
+      "id":4,
+      "title": "Rate & Review",
+      "description": "Give feedback and help others discover the best providers",
+      "icon": "https://cdn-icons-png.flaticon.com/512/276/276020.png"
+      
+    }
+  ]
+

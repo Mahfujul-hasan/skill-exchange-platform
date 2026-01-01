@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui"{
+    themes: light --default;
+}
+
+.nav a.active{
+    border-bottom: 2px solid cadetblue;
+    padding-bottom: 2px;
+    
+}

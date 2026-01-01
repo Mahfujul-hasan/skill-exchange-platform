@@ -1,0 +1,80 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "providerImage": "https://randomuser.me/api/portraits/men/45.jpg",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners. Learn chords, strumming, and basic songs within 4 weeks.",
+    "image": "https://furtadosschoolofmusic.com/wp-content/uploads/2024/11/guitar-lessons-1568x896.jpg",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "providerImage": "https://randomuser.me/api/portraits/women/65.jpg",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions focused on pronunciation, vocabulary, and fluency for non-native speakers.",
+    "image": "https://i.ytimg.com/vi/l6se_kQvwl8/maxresdefault.jpg",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Digital Marketing Basics",
+    "providerName": "Rahim Ahmed",
+    "providerEmail": "rahim@skillswap.com",
+    "providerImage": "https://randomuser.me/api/portraits/men/12.jpg",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Learn SEO, social media marketing, and Google Ads from scratch. Ideal for freelancers and small business owners.",
+    "image": "https://www.reliablesoft.net/images/free-digital-marketing-training.webp",
+    "category": "Business"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Cooking Traditional Dishes",
+    "providerName": "Mina Begum",
+    "providerEmail": "mina@skillswap.com",
+    "providerImage": "https://randomuser.me/api/portraits/women/54.jpg",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Learn to cook delicious Bangladeshi traditional foods like biryani, khichuri, and desserts with easy techniques.",
+    "image": "https://media.istockphoto.com/id/922783734/photo/assorted-indian-recipes-food-various.jpg?s=612x612&w=0&k=20&c=p8DepvymWfC5j7c6En2UsQ6sUM794SQMwceeBW3yQ9M=",
+    "category": "Cooking"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Photography for Beginners",
+    "providerName": "David Kim",
+    "providerEmail": "david@skillswap.com",
+    "providerImage": "https://randomuser.me/api/portraits/men/21.jpg",
+    "price": 30,
+    "rating": 4.5,
+    "slotsAvailable": 3,
+    "description": "Master basic photography skills — camera settings, lighting, and composition. Great for DSLR or phone users.",
+    "image": "https://i.ytimg.com/vi/n1ut8QgykiM/maxresdefault.jpg",
+    "category": "Art"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Web Development Fundamentals",
+    "providerName": "Tanvir Hasan",
+    "providerEmail": "tanvir@skillswap.com",
+    "providerImage": "https://randomuser.me/api/portraits/men/77.jpg",
+    "price": 35,
+    "rating": 5.0,
+    "slotsAvailable": 2,
+    "description": "Hands-on training in HTML, CSS, and JavaScript. Build your first responsive website in just 3 weeks.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo80WqCWGbJTUGhcIaumEcGCm166LeBGZe4Q&s",
+    "category": "Technology"
+  }
+]
