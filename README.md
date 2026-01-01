@@ -4,9 +4,15 @@
 ## live URL:  https://superlative-gumdrop-a2f766.netlify.app/
 
 
-## Website features:
+## Overview:
 <p>Skill Swap is a frontend-focused web application designed to showcase various skill-based courses such as guitar lessons, spoken English, digital marketing, and photography. The project emphasizes modern UI design, responsiveness, and user experience. I built reusable components, applied clean layouts, and ensured full responsiveness across devices. This project highlights my ability to create attractive, interractive, and user-friendly interfaces using modern frontend tools</p>
 --
+
+## Core features
+- Frontend-focused web application showcasing skill-based courses (guitar, spoken English, digital marketing, photography).
+- Modern, responsive, and user-friendly UI/UX design across devices.
+- Reusable components and clean layout implementation.
+- Emphasis on interactivity and attractive interface using modern frontend tools.
 
 ## Technologies Used
 - React
